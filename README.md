@@ -18,7 +18,7 @@ XX-PC-Software-FirstName-LastName
  If your roll number is `58`, your subject is `PC-Software`, and your official name is **Pratham Jaiswal**, your file should be named:
 
 ```
-58-C-Language-Pratham-Jaiswal
+58-PC-Software-Pratham-Jaiswal
 ```
 
  ## Important
