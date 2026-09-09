@@ -1,4 +1,4 @@
-# File Naming Convention
+# Repository Naming Convention
 
  Please follow the naming convention below when naming your files:
 
